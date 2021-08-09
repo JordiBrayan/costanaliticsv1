@@ -48,7 +48,7 @@
                 <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
                     <ul class="navbar-nav">
                         <li class="nav-item"><a class="nav-link" href="inicioadmin.php"><b>Volver</b></a></li>
-                        <li class="btn-danger"><a  href="index.php" class="nav-link" ><i aria-hidden="true"><b><u>Cerrar Sesion</u></b></i></a> </li>
+                        <li class="btn-danger"><a  href="index.php" class="nav-link" ><i aria-hidden="true"><b><u>Cerrar Sesión</u></b></i></a> </li>
                     </ul>
                     
                 </div>
@@ -85,7 +85,7 @@
                        
                         <th>ID</th>
                         <th>Nombre del Material</th>
-                        <th>Descripcion</th>
+                        <th>Descripción</th>
                         <th>Eliminar</th>            
                         </tr>
                     </thead>
@@ -137,7 +137,7 @@
                        
                         <th>ID</th>
                         <th>Nombre de la Maquinaria</th>
-                        <th>Descripcion</th>
+                        <th>Descripción</th>
                         <th>Eliminar</th>
                        
                        
@@ -188,8 +188,8 @@
                         <tr class="tr-head">
                        
                         <th>ID</th>
-                        <th>Nombre de Ocupacion</th>
-                        <th>Descripcion</th>
+                        <th>Nombre de Ocupación</th>
+                        <th>Descripción</th>
                         <th>Eliminar</th>
                        
                        
@@ -240,7 +240,7 @@
                        
                         <th>ID</th>
                         <th>Nombre de la Labor</th>
-                        <th>Descripcion</th>
+                        <th>Descripción</th>
                         <th>Eliminar</th>
                        
                        
@@ -285,7 +285,7 @@
         <div class="title text-center">
         <div class="container">
             
-            <a href="nuevomaterial.php" class="btn btn-primary">Agregar uno Nuevo</a>
+            <a href="nuevomaterial.php" class="btn btn-primary">Agregar nuevo material</a>
 		</div>
       
      		    
