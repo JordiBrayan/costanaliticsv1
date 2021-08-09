@@ -157,15 +157,15 @@
 
                                     <div class="form-group col-md">
     
-                                        <label class="title text">Selecciona el precio de cobro por Hora </label>
-                                        <input type="number" minlength="1" class="form" name="lphrs" id="inputZip" placeholder="Cantidad en (Hrs)"
+                                        <label class="title text">Selecciona la cantidad de cobro por (m²) </label>
+                                        <input type="number" min="0" class="form" name="lphrs" id="inputZip" placeholder="Cantidad en (Hrs)"
                                         required="">
 
                                     </div>
                                     <div class="form-group col-md">
     
-                                        <label class="title text">Selecciona la cantidad en hrs de Renta </label>
-                                        <input type="number" minlength="1" class="form" name="lchrs" id="inputZip" placeholder="Cantidad en (Hrs)"
+                                        <label class="title text">Selecciona la cantidad de (m²) que va a laborar</label>
+                                        <input type="number" min="0" class="form" name="lchrs" id="inputZip" placeholder="Cantidad en (Hrs)"
                                         required="">
 
                                     </div>
