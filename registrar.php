@@ -26,8 +26,8 @@
 				</span>
 				<form class="login100-form validate-form p-b-33 p-t-5" action="agregarusuario.php" method="POST">
 
-					<div class="wrap-input100 validate-input" data-validate = "Ingresa un Usuario">
-						<input class="input100" type="text" name="nameEst" id="inputNEst" placeholder="Ingresa un nombre de Usuario"
+					<div class="wrap-input100 validate-input" data-validate = "Nombre de usuario">
+						<input class="input100" type="text" name="nameEst" id="inputNEst" placeholder="Nombre completo"
 						minlength="4" maxlength="12" required pattern="[A-Za-z]+">
 						<span class="focus-input100" data-placeholder="&#xe82a;"></span>
 					</div>
