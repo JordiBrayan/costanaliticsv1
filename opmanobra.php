@@ -36,14 +36,14 @@
                                     <div class="form-group col-md">
     
                                         <label class="title text">Selecciona el precio de cobro por Hora </label>
-                                        <input type="number" minlength="1" class="form" name="mo1hrs" id="inputZip" placeholder="Cantidad en (Hrs)"
+                                        <input type="number" min="0" class="form" name="mo1hrs" id="inputZip" placeholder="Cantidad en (Hrs)"
                                        >
 
                                     </div>
                                     <div class="form-group col-md">
     
-                                        <label class="title text">Selecciona la cantidad en hrs de Renta </label>
-                                        <input type="number" minlength="1" class="form" name="mo2hrs" id="inputZip" placeholder="Cantidad en (Hrs)">
+                                        <label class="title text">Selecciona la cantidad de horas de trabajo </label>
+                                        <input type="number" mmin="0" class="form" name="mo2hrs" id="inputZip" placeholder="Cantidad en (Hrs)">
 
                                     </div>
 
@@ -94,13 +94,13 @@
                                             <div class="form-group col-md">
 
                                              <label class="title text">Selecciona el precio de cobro por Hora </label>
-                                             <input type="number" minlength="1" class="form" name="mo3hrs" id="inputZip" placeholder="Cantidad en (Hrs)">
+                                             <input type="number" min="0" class="form" name="mo3hrs" id="inputZip" placeholder="Cantidad en (Hrs)">
 
                                              </div>
                                              <div class="form-group col-md">
 
-                                              <label class="title text">Selecciona la cantidad en hrs de Renta </label>
-                                              <input type="number" minlength="1" class="form" name="mo4hrs" id="inputZip" placeholder="Cantidad en (Hrs)">
+                                             <label class="title text">Selecciona la cantidad de horas de trabajo </label>
+                                              <input type="number" min="0" class="form" name="mo4hrs" id="inputZip" placeholder="Cantidad en (Hrs)">
 
                                             </div>
 
@@ -151,16 +151,17 @@
                                             <div class="form-group col-md">
 
                                              <label class="title text">Selecciona el precio de cobro por Hora </label>
-                                             <input type="number" minlength="1" class="form" name="mo5hrs" id="inputZip" placeholder="Cantidad en (Hrs)">
+                                             <input type="number" min="0" class="form" name="mo5hrs" id="inputZip" placeholder="Cantidad en (Hrs)">
 
                                              </div>
                                              <div class="form-group col-md">
 
-                                              <label class="title text">Selecciona la cantidad en hrs de Renta </label>
-                                              <input type="number" minlength="1" class="form" name="mo6hrs" id="inputZip" placeholder="Cantidad en (Hrs)">
+                                             <label class="title text">Selecciona la cantidad de horas de trabajo </label>
+                                              <input type="number" min="0" class="form" name="mo6hrs" id="inputZip" placeholder="Cantidad en (Hrs)">
 
                                             </div>
                                             </div>
                                            <br>
                                            <br>
                                 </div>
+
