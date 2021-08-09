@@ -35,14 +35,14 @@
                                     <div class="form-group col-md">
     
                                         <label class="title text">Selecciona el precio de cobro por Hora </label>
-                                        <input type="number" minlength="1" class="form" name="t1hrs" id="inputZip" placeholder="Cantidad en (Hrs)"
+                                        <input type="number" min="0" class="form" name="t1hrs" id="inputZip" placeholder="Cantidad en (Hrs)"
                                        >
 
                                     </div>
                                     <div class="form-group col-md">
     
                                         <label class="title text">Selecciona la cantidad en hrs de Renta </label>
-                                        <input type="number" minlength="1" class="form" name="t2hrs" id="inputZip" placeholder="Cantidad en (Hrs)">
+                                        <input type="number" min="0" class="form" name="t2hrs" id="inputZip" placeholder="Cantidad en (Hrs)">
 
                                     </div>
 
@@ -94,13 +94,13 @@
                                             <div class="form-group col-md">
 
                                              <label class="title text">Selecciona el precio de cobro por Hora </label>
-                                             <input type="number" minlength="1" class="form" name="t3hrs" id="inputZip" placeholder="Cantidad en (Hrs)">
+                                             <input type="number" min="0" class="form" name="t3hrs" id="inputZip" placeholder="Cantidad en (Hrs)">
 
                                              </div>
                                              <div class="form-group col-md">
 
                                               <label class="title text">Selecciona la cantidad en hrs de Renta </label>
-                                              <input type="number" minlength="1" class="form" name="t4hrs" id="inputZip" placeholder="Cantidad en (Hrs)">
+                                              <input type="number" min="0" class="form" name="t4hrs" id="inputZip" placeholder="Cantidad en (Hrs)">
 
                                             </div>
 
@@ -151,13 +151,13 @@
                                             <div class="form-group col-md">
 
                                              <label class="title text">Selecciona el precio de cobro por Hora </label>
-                                             <input type="number" minlength="1" class="form" name="t5hrs" id="inputZip" placeholder="Cantidad en (Hrs)">
+                                             <input type="number" min="0" class="form" name="t5hrs" id="inputZip" placeholder="Cantidad en (Hrs)">
 
                                              </div>
                                              <div class="form-group col-md">
 
                                               <label class="title text">Selecciona la cantidad en hrs de Renta </label>
-                                              <input type="number" minlength="1" class="form" name="t6hrs" id="inputZip" placeholder="Cantidad en (Hrs)">
+                                              <input type="number" min="0" class="form" name="t6hrs" id="inputZip" placeholder="Cantidad en (Hrs)">
 
                                             </div>
                                             </div>
