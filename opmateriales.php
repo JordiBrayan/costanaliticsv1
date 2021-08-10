@@ -34,15 +34,15 @@
 
                                     <div class="form-group col-md">
     
-                                        <label class="title text">Selecciona el precio de cobro por Hora </label>
-                                        <input type="number" minlength="1" class="form" name="m1hrs" id="inputZip" placeholder="Cantidad en (Hrs)"
+                                        <label class="title text">Selecciona el cobro de renta por Hora</label>
+                                        <input type="number" min="0" class="form" name="m1hrs" id="inputZip" placeholder="Cantidad en (Hrs)"
                                        >
 
                                     </div>
                                     <div class="form-group col-md">
     
-                                        <label class="title text">Selecciona la cantidad en hrs de Renta </label>
-                                        <input type="number" minlength="1" class="form" name="m2hrs" id="inputZip" placeholder="Cantidad en (Hrs)">
+                                        <label class="title text">Selecciona la cantidad de horas de renta </label>
+                                        <input type="number" min="0" class="form" name="m2hrs" id="inputZip" placeholder="Cantidad en (Hrs)">
 
                                     </div>
 
@@ -91,14 +91,14 @@
 
                                             <div class="form-group col-md">
 
-                                             <label class="title text">Selecciona el precio de cobro por Hora </label>
-                                             <input type="number" minlength="1" class="form" name="m3hrs" id="inputZip" placeholder="Cantidad en (Hrs)">
+                                            <label class="title text">Selecciona el cobro de renta por Hora</label>
+                                             <input type="number" min="0" class="form" name="m3hrs" id="inputZip" placeholder="Cantidad en (Hrs)">
 
                                              </div>
                                              <div class="form-group col-md">
 
-                                              <label class="title text">Selecciona la cantidad en hrs de Renta </label>
-                                              <input type="number" minlength="1" class="form" name="m4hrs" id="inputZip" placeholder="Cantidad en (Hrs)">
+                                             <label class="title text">Selecciona la cantidad de horas de renta </label>
+                                              <input type="number" min="0" class="form" name="m4hrs" id="inputZip" placeholder="Cantidad en (Hrs)">
 
                                             </div>
 
@@ -147,14 +147,14 @@
 
                                             <div class="form-group col-md">
 
-                                             <label class="title text">Selecciona el precio de cobro por Hora </label>
-                                             <input type="number" minlength="1" class="form" name="m5hrs" id="inputZip" placeholder="Cantidad en (Hrs)">
+                                            <label class="title text">Selecciona el cobro de renta por Hora</label>
+                                             <input type="number" min="0" class="form" name="m5hrs" id="inputZip" placeholder="Cantidad en (Hrs)">
 
                                              </div>
                                              <div class="form-group col-md">
 
-                                              <label class="title text">Selecciona la cantidad en hrs de Renta </label>
-                                              <input type="number" minlength="1" class="form" name="m6hrs" id="inputZip" placeholder="Cantidad en (Hrs)">
+                                             <label class="title text">Selecciona la cantidad de horas de renta </label>
+                                              <input type="number" min="0" class="form" name="m6hrs" id="inputZip" placeholder="Cantidad en (Hrs)">
 
                                             </div>
                                             </div>
