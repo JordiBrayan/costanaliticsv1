@@ -153,7 +153,7 @@
                         <th>Costo Maquinaria($)</th> 
                         <th>Costo Mano de Obra($)</th> 
                         <th>Presupuesto($)</th>
-                        <th>Ganancia($)</th>
+                        
                        
                        
                         </tr>
@@ -174,7 +174,7 @@
                         <td><?php echo $documento["costmaqui"]; ?></td>
                         <td><?php echo $documento["costmanobra"]; ?></td>
                         <td><?php echo $documento["costtotal"]; ?></td>
-                        <td><?php echo $documento["ganancia"]; ?></td>
+                   
                         
                         
                      
