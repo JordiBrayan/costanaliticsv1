@@ -156,7 +156,7 @@
                         <th>Costo Maquinaria($)</th> 
                         <th>Costo Mano de Obra($)</th> 
                         <th>Presupuesto($)</th>
-                        <th>Ganancia($)</th>
+                 
                        
                        
                         </tr>
@@ -171,7 +171,7 @@
                       $sutru;
                       $sumanobra;
                       $sumacompleta;
-                      $mlabor;
+                     
                    
                       //echo($sumamat);
                       //echo($sutru);
@@ -188,7 +188,7 @@
                         <td><?php echo ($sutru); ?></td>
                         <td><?php echo ($sumanobra); ?></td>
                         <td><?php echo ($sumacompleta); ?></td>
-                        <td><?php echo ($mlabor); ?></td>
+                   
                        
 
                     </tr>
